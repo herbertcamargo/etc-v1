@@ -1,4 +1,4 @@
-YouTube Player API Reference for iframe Embeds 
+YouTube Player API Reference for iframe Embeds
 bookmark_border
 •	On this page
 •	Requirements
